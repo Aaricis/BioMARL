@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="image">
+    <file>background.jpg</file>
+    <file>bomb.png</file>
+    <file>circle.png</file>
+    <file>left.gif</file>
+    <file>right.gif</file>
+    <file>tank0.png</file>
+    <file>tank1.png</file>
+    <file>tank2.png</file>
+    <file>tank3.png</file>
+    <file>tank4.png</file>
+    <file>tank5.png</file>
+    <file>tank6.png</file>
+    <file>tank7.png</file>
+    <file>target.png</file>
+  </qresource>
+</RCC>
