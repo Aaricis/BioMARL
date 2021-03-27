@@ -10,4 +10,19 @@ python 3.8
 ```
 ***
 ## 实验平台
-雷区导航模拟器（Minefield Navigation Simulator）
+**雷区导航模拟器（Minefield Navigation Simulator）**
+
+<div align=center>
+<img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/simulator.png" width="50%"/>
+</div>
+
+***
+
+## 实验原理
+
+### 网络架构
+
+### 生物机制
+
+***
+## 实验结果
