@@ -20,9 +20,9 @@ python 3.8
 
 ## 实验原理
 
-  **网络架构**
+&nbsp;&nbsp;**网络架构**
 
-  **生物启发式算法：Stigmergy**
+&nbsp;&nbsp;**生物启发式算法：Stigmergy**
 
 ***
 ## 实验结果
