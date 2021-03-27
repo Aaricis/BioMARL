@@ -8,3 +8,6 @@ Windows10操作系统，8GB内存，2核Intel Core i7-6500U
 pytorch-1.4.0+cpu
 python 3.8
 ```
+***
+## 实验平台
+雷区导航模拟器（Minefield Navigation Simulator）
