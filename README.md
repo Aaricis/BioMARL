@@ -12,9 +12,9 @@ python 3.8
 ## 实验平台
 **雷区导航模拟器（Minefield Navigation Simulator）**
 
-<div align=center>
-<img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/simulator.png" width="50%"/>
-</div>
+ <div align=center>
+ <img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/simulator.png" width="50%"/>
+ </div>
 
 ***
 
@@ -57,3 +57,19 @@ python 3.8
     
 ***
 ## 实验结果
+- **多智能体雷区导航实验**
+    模拟环境中地图大小为16x16，地雷个数为15，智能体数量为4，每轮最大时间步为30，训练轮数为2000;
+    
+    训练结果如图：
+    
+    <div align=center>
+    <img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/9.png" width="50%"/>
+    </div>
+    
+    多智能体导航效果如下所示：
+    
+    <div align=center>
+    <img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/11.png" width="40%"/>
+    </div>
+    
+- **集群编队控制**
