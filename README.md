@@ -20,7 +20,12 @@ python 3.8
 
 ## 实验原理
 
-- **网络架构**
+- **神经网络架构**
+
+    网络的输入是一个包含传感器信号、数字信息素信息和agent本身序列号的n维向量。第一隐层是全连接的，由256个整流线性单元(ReLu)组成。接下来是一个由两个流组成的决斗架构，分别评估状态值和每个操作的优势。最后，一个完全连接的线性层为每个有效操作投影输出。如图所示：
+    <div align=center>
+<img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/simulator.png" width="50%"/>
+</div>
 
 - **生物启发式算法：Stigmergy**
 
