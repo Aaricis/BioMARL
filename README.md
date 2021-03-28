@@ -74,7 +74,7 @@ python 3.8
     
 - **集群编队控制**
     
-    编队控制路径轨迹实验效果图：
+    编队控制路径轨迹实验效果对比图：左边为传统DQN方法，右边为PCDQN（即我们提出的新方法）
     
     <div align=center>
     <img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/16_1.png" width="40%"/>
