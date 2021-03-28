@@ -69,7 +69,17 @@ python 3.8
     多智能体导航效果如下所示：
     
     <div align=center>
-    <img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/11.png" width="40%"/>
+    <img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/11.png" width="50%"/>
     </div>
     
 - **集群编队控制**
+    
+    编队控制路径轨迹实验效果图：
+    
+    <div align=center>
+    <img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/16_1.png" width="40%"/>
+    </div>
+    
+    <div align=center>
+    <img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/16_2.png" width="40%"/>
+    </div>
