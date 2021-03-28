@@ -38,6 +38,12 @@ python 3.8
        （2）每个位置的信息素会随着时间的推移逐渐挥发；
        （3）每个位置的信息素在每个时间步结束后会向四周扩散。
     如图所示：
+    
+    <div align=center>
+    <img src="https://github.com/Aaricis/BioMARL/blob/main/MARL/images/6.png" width="50%"/>
+    </div>
+    
+    在每个时间步，智能体在探测范围内探测地图上的信息素，并按照规则选取其中一处为“吸引子”，并将其极坐标作为状态输入的一部分。
 
 ***
 ## 实验结果
